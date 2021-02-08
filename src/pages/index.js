@@ -27,7 +27,7 @@ const IndexPage = () => {
         p >
         Hello there, welcome to my portfolio.I am a front end developer, data analist and a gamer based out of Surabaya. <
         /p> <
-        DownloadButton href = "https://github.com/agielasyari/personal-website-react/raw/master/Agiel-Resume.pdf"
+        DownloadButton href = "https://github.com/agielasyari1/personal-website-react/raw/master/Agiel-Resume.pdf"
         download title = "Resume" >
         Download Resume <
         /DownloadButton> < /
