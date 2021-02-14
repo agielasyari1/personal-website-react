@@ -10,7 +10,7 @@ export default [{
         dated: "August 2018 - present",
         logo: surabayadev,
         companyLink: "https://www.surabayadev.org",
-        description: "<p>Surabaya Dev was founded in 2014 by a group of young people who wish to continue learning about programming and technology. With the motto Learn Better Together with Surabaya Dev invites you to learn together about the latest technology that can help you hone your skills.</p>"
+        description: "<p>Surabaya Dev was founded in 2014 by a group of young people who wish to continue learning about programming and technology. With the motto `Learn Better Together' with Surabaya Dev invites you to learn together about the latest technology that can help you hone your skills.</p>"
     },
     {
         id: 4,
@@ -19,11 +19,11 @@ export default [{
         dated: "Januari 2019 - Februari 2020",
         logo: codeforasia,
         companyLink: "https://codefor.asia",
-        description: "<p>We champion inclusive, digital innovations by bringing an ecosystem of private, public and people sector talents together to connect, co-create and collaborate for the greater good. Put simply, we teach coding to complete beginners through Problem-based Learning and build cross-platform, digital products.</p>"
+        description: "<p>Digital innovations by bringing an ecosystem of private, public and people sector talents together to connect, co-create and collaborate for the greater good. Put simply, we teach coding to complete beginners through Problem-based Learning and build cross-platform, digital products.</p>"
     },
     {
         id: 3,
-        name: "Google Developer Grub Surabaya",
+        name: "Google Developer Groups Surabaya",
         designation: "Event Management",
         dated: "Januari 2019 - September 2019",
         logo: gdg,

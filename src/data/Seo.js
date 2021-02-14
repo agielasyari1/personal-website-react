@@ -14,7 +14,7 @@ export const siteMeta = {
     title: 'Agiel Asyari | Frontend Developer',
     favicon: favicon,
     author: "Agiel Asyari",
-    description: "Hello there, welcome to my portfolio. I am a front end developer, data analist and an gamer based out of Surabaya.",
+    description: "Hello there, welcome to my portfolio. I'm a front end developer, data analist and a gamer based out of Surabaya.",
     copyright: "Agiel Asyari, Copyright (c) 2021",
     keywords: [
         "Agiel Asyari",

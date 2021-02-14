@@ -6,18 +6,18 @@ const Footer = ({ footerClass }) => ( <
     <
     p >
     View site source on { " " } <
-    a href = "https://github.com/agielasyari/personal-website-react"
+    a href = "https://github.com/agielasyari1/personal-website-react"
     target = "_blank"
     rel = "noreferrer" >
     Github <
     /a>{" "} |
     Designer { " " } <
-    a href = "https://www.behance.net/ntshgdwn3596"
+    a href = "https://dribbble.com/sabrine"
     target = "_blank"
     rel = "noreferrer" >
-    Natasha G <
-    /a> <
-    /p> <
+    Sabrine M <
+    /a> < /
+    p > <
     /div>
 );
 Footer.propTypes = {
